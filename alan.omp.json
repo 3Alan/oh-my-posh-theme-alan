@@ -32,7 +32,7 @@
         {
           "type": "git",
           "style": "plain",
-          "foreground": "#1D4ED8",
+          "foreground": "#F87171",
           "properties": {
             "prefix": "[",
             "postfix": "]"
