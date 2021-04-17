@@ -16,38 +16,35 @@
         {
           "type": "root",
           "style": "plain",
-          "foreground": "#100e23"
+          "foreground": "#FBBF24"
         },
         {
           "type": "path",
           "style": "plain",
-          "foreground": "#ffffff",
-          "background": "#007ACC",
+          "foreground": "#60A5FA",
           "properties": {
             "folder_icon": "\uF115",
-            "folder_separator_icon": " \uE0B1 ",
+            "folder_separator_icon": "/",
             "style": "full",
-            "prefix": "<transparent>\uE0B0</> ",
             "postfix": " "
           }
         },
         {
           "type": "git",
           "style": "plain",
-          "foreground": "#ffffff",
-          "background": "#007ACC",
+          "foreground": "#1D4ED8",
           "properties": {
-            "prefix": "<#ffffff>\uE0B1</> ",
-            "postfix": " "
+            "prefix": "[",
+            "postfix": "]"
           }
         },
         {
           "type": "text",
           "style": "plain",
-          "foreground": "#007ACC",
+          "foreground": "#60A5FA",
           "properties": {
             "prefix": "",
-            "text": "\uE0B0"
+            "text": ">"
           }
         }
       ]
